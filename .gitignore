@@ -99,4 +99,6 @@ samples/outreach/blogs/segmentation_blogpost/carvana-image-masking-challenge/
 .git/
 .dvc/
 
-
+.gitignore
+.dvcignore
+.dvc
