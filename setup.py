@@ -1,4 +1,4 @@
-from setuptools import  setup, find_packages
+from setuptools import setup, find_packages
 
 
 setup(
@@ -8,5 +8,4 @@ setup(
     author='ASK',
     packages=find_packages(),
     liscence='MIT',
-
 )

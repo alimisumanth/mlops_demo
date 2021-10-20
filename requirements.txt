@@ -1,8 +1,9 @@
-django~=3.2.5
 dvc
 dvc[drive]
 scikit-learn
 pandas
-yaml
 pytest
 tox
+flake8
+flask
+gunicorn
